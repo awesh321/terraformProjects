@@ -1,0 +1,7 @@
+users:
+  - name: "awesh"
+    roles: [AdministratorAccess]
+  - name: "rahul"
+    roles: [AmazonS3FullAccess]
+  - name: "nikita"
+    roles: [AmazonS3ReadOnlyAccess, AdministratorAccess]
